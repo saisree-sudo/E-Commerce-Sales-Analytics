@@ -1,0 +1,11 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Quantity,Unit_Price,Sales,Discount,Cost,Profit,Region,City,Payment_Mode
+O1001,2026-01-05,C001,Laptop,Electronics,1,60000,60000,5,50000,10000,South,Hyderabad,UPI
+O1002,2026-01-08,C002,Headphones,Electronics,2,2000,4000,10,3000,1000,South,Bengaluru,Card
+O1003,2026-01-12,C003,Office Chair,Furniture,1,8000,8000,0,6000,2000,North,Delhi,Cash
+O1004,2026-01-18,C001,Keyboard,Electronics,2,1500,3000,5,2200,800,South,Hyderabad,UPI
+O1005,2026-02-02,C004,Desk,Furniture,1,10000,10000,15,8200,1800,West,Mumbai,Card
+O1006,2026-02-10,C005,Smartphone,Electronics,1,30000,30000,10,27000,3000,South,Chennai,UPI
+O1007,2026-02-16,C002,Mouse,Electronics,3,800,2400,0,1500,900,South,Bengaluru,Card
+O1008,2026-02-22,C006,Books,Books,5,400,2000,5,1200,800,East,Kolkata,Cash
+O1009,2026-03-03,C007,Monitor,Electronics,1,12000,12000,20,10500,1500,West,Pune,UPI
+O1010,2026-03-11,C003,Books,Books,3,500,1500,0,900,600,North,Delhi,Cash

@@ -48,8 +48,5 @@ Average Order Value = DIVIDE([Total Sales], DISTINCTCOUNT(Orders[Order_ID]))
 3. Customer Analysis
 4. Business Intelligence
 
-## Important Note
-The included CSV is a small sample dataset for learning and testing. Replace it with a larger real-world dataset before using the project as a major portfolio project.
-
 ## Resume Description
 Developed an end-to-end E-Commerce Sales Analytics solution using Python, SQL and Power BI to analyze sales, profitability, product performance, regional trends and discount patterns.

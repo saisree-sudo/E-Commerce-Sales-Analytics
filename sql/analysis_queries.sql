@@ -1,6 +1,5 @@
 USE ecommerce_analytics;
 
--- 1. Total sales
 SELECT SUM(Sales) AS Total_Sales FROM orders;
 
 -- 2. Total profit
